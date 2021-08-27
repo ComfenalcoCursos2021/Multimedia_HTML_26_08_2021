@@ -1,0 +1,33 @@
+/*
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+
+    color: #0101ee;
+} */
+
+#imgSource{
+    width: 600px;
+}
+@media only screen and (max-width:600px) {
+    #imgSource{
+        width: 400px;
+    }
+}
+@media only screen and (max-width:500px) {
+    #imgSource{
+        width: 300px;
+    }
+}
+@media only screen and (max-width:400px) {
+    #imgSource{
+        width: 200px;
+    }
+}
+
+
+
+
